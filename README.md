@@ -33,7 +33,8 @@ In 2023, I made a 180-degree career switch when I traded my wings for keyboards.
   </picture>
   </a>
  </p>
- 
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=voothedoo&label=Profile%20views&color=0e75b6&style=flat" alt="voothedoo" /> </p>
 <a
 href="http://www.github.com/voothedoo">
 <img
