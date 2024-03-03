@@ -18,25 +18,11 @@ In 2023, I made a 180-degree career switch when I traded my wings for keyboards.
 ### Socials
                   
  <p align="left">
-  <a href="https://discord.com/users/voothedoo" target="_blank" rel="noreferrer">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </picture>
-  </a>
   <a href="https://www.github.com/voothedoo" target="_blank" rel="noreferrer">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </picture>
-  </a>
-  <a href="http://www.instagram.com/alexmunteanu_/" target="_blank" rel="noreferrer">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </picture>
   </a>
   <a href="https://www.linkedin.com/in/alexandru-munteanu-dev/" target="_blank" rel="noreferrer">
@@ -52,9 +38,11 @@ In 2023, I made a 180-degree career switch when I traded my wings for keyboards.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </picture>
-  </a></p>
+  </a>
+ </p>
+ 
+### Badges
   
-  ### Badges
-  <b>My GitHub Stats</b><a
-    href="http://www.github.com/voothedoo"><img
+<b>My GitHub Stats</b><a
+href="http://www.github.com/voothedoo"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=voothedoo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
